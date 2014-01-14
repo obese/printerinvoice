@@ -1,1 +1,1 @@
-<?php include_once("123456.html"); ?>
+<?php include_once("printer_test.html"); ?>
